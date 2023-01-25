@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "com/zoomCare/step_definitions",
         dryRun = false,
-        tags = "@smoke2"
+        tags = "@smoke"
 )
 
 public class Runner {
